@@ -24,7 +24,7 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
       - type: Button
         label: Learn More
