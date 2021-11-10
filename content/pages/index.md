@@ -167,7 +167,7 @@ sections:
     type: FeaturedPostsSection
   - elementId: contact-form
     colors: colors-f
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Contact us
     text: We look forward to hearing from you.
     form:
