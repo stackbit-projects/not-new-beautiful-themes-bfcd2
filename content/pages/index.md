@@ -24,7 +24,7 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
       - type: Button
         label: Learn More
@@ -100,7 +100,9 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
     type: FeaturedPostsSection
