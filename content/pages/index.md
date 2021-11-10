@@ -67,7 +67,7 @@ sections:
     type: HeroSection
   - elementId: contact-form
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Contact us
     text: We look forward to hearing from you.
     form:
